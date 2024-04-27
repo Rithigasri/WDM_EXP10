@@ -2,7 +2,7 @@
 ## DATE: 27.04.2024
 ## AIM:
 To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
-## DESCRIIPTION: 
+## DESCRIPTION: 
 <div align = "justify">
 
 ## PROCEDURE:
