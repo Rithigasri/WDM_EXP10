@@ -1,5 +1,5 @@
 # EXPERIMENT 10: [PROJECT] SENTIMENTAL ANALYSIS USING RAPIDMINER
-## DATE: 27.04.202
+## DATE: 27.04.2024
 ## AIM:
 To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ## DESCRIIPTION: 
